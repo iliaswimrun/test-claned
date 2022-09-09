@@ -1,0 +1,14 @@
+.text {
+    max-width: 550px;
+    margin-left: 200px;
+    font-family: serif;
+    font-size: 20px;
+}
+.page {
+    width: auto;
+}
+h1 {
+    margin-left: 200px;
+    font-size: 32px;
+    font-family: serif;
+}
